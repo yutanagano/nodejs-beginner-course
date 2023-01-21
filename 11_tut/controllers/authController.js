@@ -3,6 +3,10 @@ const usersDB = {
     setUsers: function(data) { this.users = data }
 }
 const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
+require('dotenv').config();
+const fsPromises = require('fs').promises;
+const path = require('path');
 
 const handleLogin = async (req, res) => {
     const { uname, pwd } = req.body;
@@ -21,7 +25,17 @@ const handleLogin = async (req, res) => {
     const match = await bcrypt.compare(pwd, foundUser.passWord);
 
     if (match) {
-        // TODO create JWTs
+        // create JWTs
+        const accessToken = jwt.sign(
+            { userName: foundUser.userName },
+            process.env.ACCESS_TOKEN_SECRET,
+            { expiresIn: '30s' }
+        );
+        const refreshToken = jwt.sign(
+            { userName: foundUser.userName },
+            process.env.REFRESH_TOKEN_SECRET,
+            { expiresIn: '1d' }
+        );
         res.json({ success: `User ${uname} is logged in!` });
     } else {
         res.sendStatus(401);
