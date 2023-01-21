@@ -1,0 +1,32 @@
+20230116	20:23:14	a08405cd-8ac7-4776-9cb6-fb48b3d51429	/img/stonks.png	GET
+20230116	20:23:37	051e0a3a-bce6-4c65-9a7a-87a0332aa1f9	/	GET
+20230116	20:24:13	b563b359-7ff0-4f68-af94-672b1b8cb332	/	GET
+20230116	20:24:39	cce93f60-e8c7-4057-a7c6-6e01b71d7688	/	GET
+20230117	17:18:54	59306fef-9fa6-41e7-9093-4a5b1677d6a0	GET	undefined	/img/stonks.png
+20230117	17:19:07	cf4d6dd9-54f9-4efc-aab5-227023557fd1	GET	undefined	/img/stonks.png
+20230117	17:20:19	d52a9d73-9fd3-4d32-b16a-5eada74bb679	GET	undefined	/img/stonks.png
+20230117	17:20:23	d397c833-5d4d-48f6-b7d3-dd4951f3dd3f	GET	undefined	/img/stonks.png
+20230117	17:20:54	2e1a158e-3805-4eb1-8519-90bd19e59125	GET	https://www.google.com	/
+20230117	17:22:33	e0b1288c-9f01-4fd5-a22e-e11e06d17cee	GET	https://www.google.com	/
+20230117	17:22:39	62b9cadf-bdac-43cc-a0b3-bc1e75d38cd1	GET	https://www.google.com	/
+20230117	17:22:48	41f94509-c9d1-4a23-8048-3182f5622088	GET	https://www.google.com	/
+20230117	17:23:09	f9f82943-457a-427f-b67f-aba067e23f8a	GET	https://www.google.com	/
+20230117	17:23:22	a7125dda-a64f-4b08-b1c2-389c6a204b38	GET	undefined	/
+20230117	17:23:43	0fef39cd-3a4f-4a26-8d91-e3183550c383	GET	undefined	/
+20230117	17:23:49	372ed2b5-fbfd-40c3-b868-ae2dca6f4126	GET	undefined	/next-page
+20230117	17:24:11	1dff92fd-cc33-4b5b-b0cc-62de8778b2bf	GET	undefined	/next-page
+20230117	17:25:09	1e29b947-2337-45f1-8de0-b44404d5449a	GET	undefined	/
+20230117	17:25:16	717c33a6-5353-47b8-90fd-8b952621a311	GET	https://www.google.com	/
+20230117	17:28:29	e39eb092-acb5-4e39-94ba-646a0b5fb36d	GET	https://www.google.com	/
+20230117	17:28:33	d322e961-972e-4a65-8506-d5102631dc73	GET	undefined	/
+20230117	17:28:46	9e0cd7af-3fc1-49b6-9d80-5cd580347958	GET	https://www.google.com	/
+20230117	17:28:49	d83dd05e-1e8c-433a-861f-ba28bb50721f	GET	undefined	/
+20230117	17:29:34	4f6c489a-45ab-4996-8a28-08e20c3b9718	GET	https://www.google.com	/
+20230117	17:30:44	9a407dc2-b010-4640-a695-b0656f0d42cd	GET	undefined	/
+20230117	17:31:11	1367202e-f79b-4c8e-957e-57d7898a47e0	GET	undefined	/
+20230117	17:33:57	26cc1bf7-a96c-4520-a676-6d2d37394ea7	GET	undefined	/
+20230117	17:34:10	dfdb73f2-03e1-4def-ad90-c35aa8354386	GET	https://www.google.com	/
+20230117	17:34:48	135c50e4-16cb-4c49-9b60-27ce8c9a2b78	GET	undefined	/
+20230117	17:35:28	f0284a78-fa39-40be-9000-f04e3378f80e	GET	undefined	/
+20230117	17:35:32	c5e6d65d-8dcf-485d-abc4-527e765dc115	GET	undefined	/foobar
+20230117	17:36:57	c03ec4ab-9414-455b-9396-7246fb1bab65	GET	undefined	/foobar
